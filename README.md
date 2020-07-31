@@ -8,4 +8,8 @@ Current Version : v 0.01
 -----------------------------------------------------------------------
 
 Things to be done:
-- 
+- Complete story (Direction of story telling)
+- Concept of mini games
+- Balancing
+- 3D Modeling
+- More research
